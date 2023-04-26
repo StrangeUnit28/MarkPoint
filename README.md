@@ -1,5 +1,9 @@
 # Mark Point
 
+<div align="center">
+<img src="docs/img/icon_markPoint.png" width="300px">
+</div>
+
 This is an open source project that transforms Mark Down files into functionals slides.
 
 ## License
